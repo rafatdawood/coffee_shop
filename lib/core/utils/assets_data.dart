@@ -1,0 +1,35 @@
+class AssetsData {
+static const String bgImage = 'assets/images/bg.jpg';
+static const String coffee1Image = 'assets/images/1.png';
+static const String coffee2Image = 'assets/images/2.png';
+static const String coffee3Image = 'assets/images/3.png';
+static const String coffee4Image = 'assets/images/4.png';
+static const String coffee5Image = 'assets/images/5.png';
+static const String arrowDownSImage = 'assets/icons/Icon.svg';
+static const String arrowRightImage = 'assets/icons/arrow_right.svg';
+static const String arrowDownImage = 'assets/icons/arrow_down.svg';
+static const String filterImage = 'assets/icons/filter.svg';
+static const String searchImage = 'assets/icons/search.svg';
+static const String homeImage = 'assets/icons/home.svg';
+static const String activeHomeImage = 'assets/icons/active_home.svg';
+static const String heartImage = 'assets/icons/heart.svg';
+static const String blackHeartImage = 'assets/icons/black_heart.svg';
+static const String activeHeartImage = 'assets/icons/active_heart.svg';
+static const String bagImage = 'assets/icons/bag.svg';
+static const String activeBagImage = 'assets/icons/active_bag.svg';
+static const String notificationImage = 'assets/icons/notification.svg';
+static const String activeNotificationImage = 'assets/icons/active_notification.svg';
+static const String bannerImage = 'assets/images/Banner 1.png';
+static const String plusImage = 'assets/icons/plus.svg';
+static const String starImage = 'assets/icons/star.svg';
+static const String arrowLeftImage = 'assets/icons/arrow_left.svg';
+static const String milkImage = 'assets/icons/milk.svg';
+static const String bikeImage = 'assets/icons/bike.svg';
+static const String beanImage = 'assets/icons/bean.svg';
+static const String editImage = 'assets/icons/edit.svg';
+static const String noteImage = 'assets/icons/note.svg';
+static const String decrementImage = 'assets/icons/decrement.svg';
+static const String incrementImage = 'assets/icons/increment.svg';
+static const String discountImage = 'assets/icons/discount.svg';
+static const String walletImage = 'assets/icons/wallet.svg';
+}
